@@ -1,0 +1,9 @@
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\bin\Debug\ShiftOS.exe.config
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\bin\Debug\ShiftOS.exe
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\bin\Debug\ShiftOS.pdb
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.csprojAssemblyReference.cache
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.Properties.Resources.resources
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.csproj.GenerateResource.cache
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.csproj.CoreCompileInputs.cache
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.exe
+C:\Users\c2tra\Desktop\My apps\ShiftOS\ShiftOS\obj\Debug\ShiftOS.pdb
